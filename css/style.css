@@ -28,9 +28,9 @@ i{
 }
 .triple-bg{
     background-image: 
-    url(img/overlay-top.png),
-    url(img/bg.jpg),
-    url(img/overlay-bottom.png);
+    url(../img/overlay-top.png),
+    url(../img/bg.jpg),
+    url(../img/overlay-bottom.png);
 
     background-position: top center ,center center ,bottom center;
     background-size: contain, cover, contain;
@@ -46,9 +46,9 @@ i{
 }
 #bakgrnd{
     background-image: 
-    url(img/overlay-top.png),
-    url(img/bg-2.jpg),
-    url(img/overlay-bottom.png);
+    url(../img/overlay-top.png),
+    url(../img/bg-2.jpg),
+    url(../img/overlay-bottom.png);
 
     background-position: top center ,center center ,bottom center;
     background-size: contain, cover, contain;
